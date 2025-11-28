@@ -1,0 +1,5 @@
+{
+  "name": "AlphaSignal AI",
+  "description": "High-frequency AI trading assistant generating Buy/Sell signals for BTC, XAUUSD, and USOIL with calculated Risk:Reward ratios.",
+  "requestFramePermissions": []
+}
